@@ -1,4 +1,4 @@
-import { Effect, Console } from "effect";
+import { Effect } from "effect";
 
 const increment = (x: number) => x + 1;
 
